@@ -1,0 +1,11 @@
+SDKs/
+work/
+built/
+sources/
+config.site
+i686*
+mips*
+powerpc*
+riscv32*
+riscv64*
+s390x*
